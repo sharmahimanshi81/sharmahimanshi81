@@ -9,13 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmahimanshi81&label=Profile%20views&color=0e75b6&style=flat" alt="sharmahimanshi81" /> </p>
 
-- 🔭 I’m currently working on [TEXT2PIX](https://github.com/sharmahimanshi81/text2pix)
+🧰 Projects
 
-- 👯 I’m looking to collaborate on [CAR PRICE PREDICTOR](https://github.com/sharmahimanshi81/car-price-predictor)
+- [˙✧˖°📸⋆｡˚ TEXT2PIX](https://687e8743fe09504a9c9a2590--text2pix.netlify.app/) – full-stack AI-powered text-to-image generator
+- [💸 FinTrack](https://fin-track-roan.vercel.app) – Full-stack finance platform powered by Gemini AI  
+- [🏠TRUST BRICK](https://trustbrick.netlify.app/) – React + Vite  Real Estate Website
 
-- 🤝 I’m currently working on [TRUST BRICK](https://github.com/sharmahimanshi81/trustbrick)
+  
 
-- 💬 Ask me about **react ,javascript,DSA**
+- 💬 Ask me about **react , javascript ,DSA**
 
 - ⚡ Fun fact **I think i am FOODiee**
 
