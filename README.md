@@ -11,7 +11,7 @@
 
 🧰 Projects
 
-- [˙✧˖°📸⋆｡˚ TEXT2PIX](https://687e8743fe09504a9c9a2590--text2pix.netlify.app/) – full-stack AI-powered text-to-image generator
+- [˙✧˖°📸⋆｡˚ TEXT2PIX](https://687f7a2623c62c3035f2b3fc--text2pix.netlify.app/) – full-stack AI-powered text-to-image generator
 - [💸 FinTrack](https://fin-track-roan.vercel.app) – Full-stack finance platform powered by Gemini AI  
 - [🏠TRUST BRICK](https://trustbrick.netlify.app/) – React + Vite  Real Estate Website
 
